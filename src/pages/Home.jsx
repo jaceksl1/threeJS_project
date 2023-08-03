@@ -9,7 +9,7 @@ import {
     headContentAnimation,
     headTextAnimation,
     slideAnimation
-} from '../config/motion';
+} from '../config/motion.js';
 
 
 const Home = () => {

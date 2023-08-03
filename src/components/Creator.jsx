@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import {
-    headContainerAnimation
-} from '../config/motion';
+import { headContainerAnimation } from '../config/motion.js';
 
 const Creator = () => {
   

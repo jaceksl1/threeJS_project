@@ -1,6 +1,6 @@
 import React from 'react'
 
-import CustomButton from './CustomButton'
+import CustomButton from './CustomButton.jsx'
 
 const FilePicker = ({ file, setFile, readFile }) => {
   return (
